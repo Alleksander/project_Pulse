@@ -9,6 +9,10 @@
     text-transform: uppercase;
     color: #FFFFFF;
     text-align: center;
+    transition: 0.4s all;
+    &:hover {
+        background-color: rgb(46, 206, 25);
+    }
     &_main {
         margin-top: 67px;
         width: 300px;
@@ -24,5 +28,6 @@
         width: 135px;
         height: 44px;
         font-size: 14px;
+        line-height: 14px;
     }
 }
