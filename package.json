@@ -1,5 +1,5 @@
 {
-  "name": "project_uber",
+  "name": "project_pulse",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alleksander/project_Uber.git"
+    "url": "git+https://github.com/Alleksander/project_Pulse.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Alleksander/project_Uber/issues"
+    "url": "https://github.com/Alleksander/project_Pulse/issues"
   },
-  "homepage": "https://github.com/Alleksander/project_Uber#readme",
+  "homepage": "https://github.com/Alleksander/project_Pulse#readme",
   "devDependencies": {
     "browser-sync": "^2.27.7",
     "gulp": "^4.0.2",
